@@ -47,4 +47,4 @@ A Management Information Systems (MIS) student passionate about leveraging Data 
 ## 📫 Connect with Me
 
 * LinkedIn: www.linkedin.com/in/shahad-adil
-* GitHub: [Your GitHub Profile Link]
+* GitHub: https://github.com/shahad3dil
