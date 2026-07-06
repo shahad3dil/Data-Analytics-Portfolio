@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Shahad Alhussain
+# Shahad Adil Alhussain
 
-A Management Information Systems (MIS) student passionate about leveraging Data Analytics and Business Intelligence to drive data-informed decisions. I enjoy transforming raw data into meaningful insights and interactive dashboards.
+Management Information Systems (MIS) Student | Data Analyst & Business Intelligence Enthusiast
 
+Management Information Systems student with a strong focus on Data Analytics and Business Intelligence. Proficient in transforming complex datasets into actionable business insights through interactive dashboards and optimized data models. Driven by a passion for precision, visual clarity, and data-informed decision-making.
 ---
 
 ## 💻 Technical Skills
