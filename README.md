@@ -15,10 +15,10 @@ A Management Information Systems (MIS) student passionate about leveraging Data 
 
 ## 📊 Power BI Projects
 
-* Chocolate Sales Performance Dashboard: [أضيفي رابط المشروع هنا إذا كان جاهزاً]  
+* Chocolate Sales Performance Dashboard: https://lnkd.in/dJb2FirD
   *Brief description of the project (e.g., Analyzed global sales data, optimized data models using DAX, and built interactive visuals for executive decision-making).*
   
-* HR Insights Dashboard: [أضيفي رابط المشروع هنا إذا كان جاهزاً]  
+* HR Insights Dashboard: https://lnkd.in/eeba4Bkd
   *Brief description of the project (e.g., Tracked key workforce metrics, turnover rates, and employee performance trends).*
 
 ---
@@ -31,7 +31,7 @@ A Management Information Systems (MIS) student passionate about leveraging Data 
 
 ## 🎨 UI/UX & Web Projects
 
-* Wateen App Interface (Figma): [أضيفي رابط المشروع هنا]  
+* Wateen App Interface (Figma): https://lnkd.in/dDJwhemM
   *Designed a comprehensive user interface from scratch for a Systems Analysis and Design course, focusing on user-centered design principles.*
 * Web Development Projects: *Coming soon (HTML & CSS).*
 
