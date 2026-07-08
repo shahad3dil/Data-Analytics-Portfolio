@@ -16,11 +16,24 @@ Management Information Systems student with a strong focus on Data Analytics and
 
 ## 📊 Power BI Projects
 
-* Chocolate Sales Performance Dashboard: https://lnkd.in/dJb2FirD
-  *Brief description of the project (e.g., Analyzed global sales data, optimized data models using DAX, and built interactive visuals for executive decision-making).*
-  
-* HR Insights Dashboard: https://lnkd.in/eeba4Bkd
-  *Brief description of the project (e.g., Tracked key workforce metrics, turnover rates, and employee performance trends).*
+### Chocolate Sales Performance Dashboard
+🔗 shahad3dil/Chocolate-Sales-Performance-PowerBI: Interactive Power BI Dashboard analyzing global chocolate sales performance data (2022-2025). (https://github.com/shahad3dil/Chocolate-Sales-Performance-PowerBI)
+
+Analyzed global sales performance using Power BI by building interactive dashboards, developing DAX measures, and creating KPI visualizations to support business decision-making.
+
+---
+
+### HR Insights Dashboard
+🔗shahad3dil/HR-Insights-Dashboard-PowerBI: An interactive Power BI dashboard analyzing 2 million global HR records for a Multinational Corporation (https://github.com/shahad3dil/HR-Insights-Dashboard-PowerBI)
+
+Designed an HR analytics dashboard to monitor workforce metrics, employee distribution, payroll insights, and turnover trends using Power BI, Power Query, and DAX.
+
+---
+
+### IT Project Risk & Performance Analytics Dashboard
+🔗 shahad3dil/IT-Project-Risk-Analytics-Dashboard: An interactive Power BI dashboard designed to analyze, monitor, and mitigate enterprise IT project risks and budget allocations. (https://github.com/shahad3dil/IT-Project-Risk-Analytics-Dashboard)
+
+Developed an interactive dashboard to analyze enterprise IT project portfolios, monitor budget utilization, identify critical project risks, and evaluate project complexity through data visualization.
 
 ---
 
