@@ -37,24 +37,16 @@ Developed an interactive dashboard to analyze enterprise IT project portfolios, 
 
 ---
 
-## 🗄 SQL Projects
-
-* Coming Soon: Working on database design and query optimization projects.
-
----
-
 ## 🎨 UI/UX & Web Projects
 
 * Wateen App Interface (Figma): https://lnkd.in/dDJwhemM
   *Designed a comprehensive user interface from scratch for a Systems Analysis and Design course, focusing on user-centered design principles.*
-* Web Development Projects: *Coming soon (HTML & CSS).*
+
 
 ---
 
 ## 📜 Certifications & Learning Journey
 
-* Microsoft Certified: Power BI Data Analyst Associate (PL-300) – *In Progress*
-* Continuous Learning: Actively expanding knowledge via Microsoft Learn.
 
 ---
 
