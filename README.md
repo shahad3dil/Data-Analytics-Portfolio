@@ -1,56 +1,69 @@
-# Shahad Adil Alhussain
+# Shahad Adel Alhussain
 
-Management Information Systems (MIS) Student | Data Analyst & Business Intelligence Enthusiast
+**MIS Student | Data Analytics | Business Intelligence | Power BI**
 
-Management Information Systems student with a strong focus on Data Analytics and Business Intelligence. Proficient in transforming complex datasets into actionable business insights through interactive dashboards and optimized data models. Driven by a passion for precision, visual clarity, and data-informed decision-making.
+Management Information Systems student at Jubail Industrial College with a strong interest in Data Analytics and Business Intelligence. Experienced in building interactive Power BI dashboards to analyze business data, track key performance indicators, and communicate insights through clear visualizations. Continuously developing my technical skills through hands-on projects, academic coursework, and professional learning, with a focus on data analysis and data-driven decision-making.
+
 ---
 
 ## 💻 Technical Skills
 
-* Data Visualization & BI: Power BI, Microsoft Excel
-* Data Transformation & Modeling: Power Query, DAX
-* Database Management: SQL (Currently Learning)
-* Version Control: Git & GitHub
+* **Data Visualization & Business Intelligence:** Power BI, DAX, Microsoft Excel, Microsoft Access
+* **Data Transformation & Modeling:** Power Query, Data Cleaning, Data Modeling, Star Schema Fundamentals
+* **Database Management:** SQL (Academic Coursework)
+* **UI/UX & Web Development Fundamentals:** Figma, HTML, CSS, JavaScript, Java
+* **Version Control:** Git & GitHub
 
 ---
 
 ## 📊 Power BI Projects
 
-### Chocolate Sales Performance Dashboard
-🔗  Interactive Power BI Dashboard analyzing global chocolate sales performance data (2022-2025). (https://github.com/shahad3dil/Chocolate-Sales-Performance-PowerBI)
+### 🍫 Chocolate Sales Performance Dashboard
 
-Analyzed global sales performance using Power BI by building interactive dashboards, developing DAX measures, and creating KPI visualizations to support business decision-making.
+*An interactive Power BI dashboard analyzing chocolate sales performance across multiple markets from 2022 to 2025.*
 
----
+👉 **[View Repository](https://github.com/shahad3dil/Chocolate-Sales-Performance-PowerBI)**
 
-### HR Insights Dashboard
-🔗 An interactive Power BI dashboard analyzing 2 million global HR records for a Multinational Corporation (https://github.com/shahad3dil/HR-Insights-Dashboard-PowerBI)
+* Built interactive visualizations and DAX measures to analyze sales performance, monitor key performance indicators, and support data-driven business decisions.
 
-Designed an HR analytics dashboard to monitor workforce metrics, employee distribution, payroll insights, and turnover trends using Power BI, Power Query, and DAX.
+### 👥 HR Insights Dashboard
 
----
+*An interactive HR analytics dashboard exploring workforce data for a multinational corporation.*
 
-### IT Project Risk & Performance Analytics Dashboard
-🔗  An interactive Power BI dashboard designed to analyze, monitor, and mitigate enterprise IT project risks and budget allocations. (https://github.com/shahad3dil/IT-Project-Risk-Analytics-Dashboard)
+👉 **[View Repository](https://github.com/shahad3dil/HR-Insights-Dashboard-PowerBI)**
 
-Developed an interactive dashboard to analyze enterprise IT project portfolios, monitor budget utilization, identify critical project risks, and evaluate project complexity through data visualization.
+* Developed a dashboard to explore workforce metrics, employee distribution, payroll insights, and turnover trends using Power BI, Power Query, and DAX.
+
+### ⚠️ IT Project Risk & Performance Analytics Dashboard
+
+*An interactive Power BI dashboard designed to analyze enterprise IT project portfolios, budget utilization, and project risks.*
+
+👉 **[View Repository](https://github.com/shahad3dil/IT-Project-Risk-Analytics-Dashboard)**
+
+* Analyzed project portfolio data through interactive visualizations to monitor budget utilization, assess project complexity, and identify critical risk indicators.
 
 ---
 
 ## 🎨 UI/UX & Web Projects
 
-* Wateen App Interface (Figma): https://lnkd.in/dDJwhemM
-  *Designed a comprehensive user interface from scratch for a Systems Analysis and Design course, focusing on user-centered design principles.*
+### Wateen App Interface — Figma
 
+👉 **[View Figma Prototype](https://lnkd.in/dDJwhemM)**
+
+* Designed a user interface for an academic Systems Analysis and Design project, focusing on user-centered design principles and a clear, intuitive user experience.
 
 ---
 
-## 📜 Certifications & Learning Journey
+## 📜 Certifications & Credentials
 
+* **Data Literacy** — IBM SkillsBuild
+* **Introduction to Artificial Intelligence** — IBM SkillsBuild
+* **HTML Full Course – Build a Website Tutorial** — IBM SkillsBuild / freeCodeCamp
+* **AI Fundamentals** — SDAIA
 
 ---
 
 ## 📫 Connect with Me
 
-* LinkedIn: www.linkedin.com/in/shahad-adil
-* GitHub: https://github.com/shahad3dil
+* **LinkedIn:** [Shahad Adel Alhussain](https://www.linkedin.com/in/shahad-adil)
+* **GitHub:** [shahad3dil](https://github.com/shahad3dil)
